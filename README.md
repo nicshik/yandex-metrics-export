@@ -3,6 +3,8 @@
 [![CI](https://github.com/nicshik/yandex-metrics-export/actions/workflows/ci.yml/badge.svg)](https://github.com/nicshik/yandex-metrics-export/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+[English](README.md) | [Русский](README.ru.md)
+
 Universal web interface for exporting raw visits and hits from the Yandex Metrika Logs API.
 
 ## Features
