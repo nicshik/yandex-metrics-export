@@ -53,7 +53,7 @@ The browser must send the OAuth token in the `x-metrika-token` header. Without t
 
 Requirements:
 
-- Node.js 18.17 or newer.
+- Node.js 20.9 or newer.
 - npm.
 
 ```bash

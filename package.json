@@ -27,13 +27,16 @@
     "check": "npm run typecheck && npm run build"
   },
   "engines": {
-    "node": ">=18.17.0"
+    "node": ">=20.9.0"
   },
   "dependencies": {
     "lucide-react": "^1.14.0",
     "next": "^16.2.4",
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
+  },
+  "overrides": {
+    "postcss": "^8.5.13"
   },
   "devDependencies": {
     "@types/node": "^20.14.0",
